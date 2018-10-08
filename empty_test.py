@@ -23,7 +23,7 @@ class Test(unittest.TestCase):
 	def test_01(self):
 		print 'Doing'
 		
-		raise Exception("Something went wrong")
+#		raise Exception("Something went wrong")
 		print "Done"
 		pass
 
